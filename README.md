@@ -1,23 +1,32 @@
 # 🧠 Brain-Smart Technology
-### Founded Nov 10, 2026 | Lusaka, Zambia | by Sird3
+**Founded in 2019 | Lusaka, Zambia | by Sird3**
 
-> Cybersecurity Company - From Zero to Pro
+Zambia's Next-Gen IT Solutions Company.
 
-## Day 1 Journey
-- Installed Ubuntu (WSL)
-- Learned Linux commands: ls, pwd, mkdir, nano
-- Installed tools: nmap, git
-- First scan: nmap localhost
-- Pushed first code to GitHub
+## What We Do
+- **Smart Surveillance Systems** - AI-powered CCTV, access control, remote monitoring
+- **Network Hardening** - Secure business networks, WiFi hardening, firewall setup
+- **Cybersecurity Hardening** - Business data protection, endpoint security, security audits
+- **Business Tech Value-Add** - IT infrastructure, automation, tech consulting for SMEs
+
+## Milestone - Nov 10, 2026
+- Official GitHub Launch of Brain-Smart Technology
+- Setup professional development environment (Ubuntu/WSL + Git)
+- Deployed company profile to GitHub
+- Mission: Secure Zambian businesses with smart technology
 
 ## Mission
-To build Zambia's leading cybersecurity company.
+To help Zambian businesses operate smarter, safer, and more efficiently through technology.
 
+## Founder
+David Manengu - @Sird3 - Lusaka, Zambia
+Techpreneur | IT Solutions Specialist
 
-David Manengu - @Sird3
-
+## Contact
+GitHub: github.com/Sird3/Brain-Smart-Technology
+Location: Lusaka, Zambia
 
 ---
-*This repo documents my journey from first Ubuntu command to cybersecurity expert.*
+*Building Zambia's digital future since 2019.*
 
 
