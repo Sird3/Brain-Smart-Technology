@@ -13,9 +13,9 @@
 ## Mission
 To build Zambia's leading cybersecurity company.
 
-## Founder
+
 David Manengu - @Sird3
-Google account: davidmanengu@gmail.com
+
 
 ---
 *This repo documents my journey from first Ubuntu command to cybersecurity expert.*
